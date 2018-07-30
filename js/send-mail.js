@@ -81,7 +81,7 @@ $scope.sendEmail = function() {
 	  });
 	};
 
-})(jQuery);
+}(jQuery);
 
 
 function handleAuthResult(authResult) {
